@@ -1,0 +1,28 @@
+h1{
+    outline: 1px solid yellow;
+    text-align: center;
+}
+img{
+    outline: 1px solid green;
+  max-width: 100%;
+  
+}
+p{
+   
+    outline: 1px solid orange;
+    font-size: 14px;
+}
+.caja{
+    /* PARA VER EL MAQUETADO : outline: 1px solid red;
+*/
+border: 1px solid #999;
+width: 460px;
+max-width: 100%;
+padding: 5px;
+margin: 5px;
+float: left;
+margin-left: 0px;
+
+
+
+}
